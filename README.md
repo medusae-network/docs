@@ -4,7 +4,7 @@
 
 Medusae est une crypto-monnaie basée sur Ethereum mais complétement indépendante tant bien sur le réseau que sur son indexation financière, en effet les MDU (devise principale de Medusae) n'ont pas de valeur dans les autres monnaies.&#x20;
 
-De plus Medusae est un réseau piloté par la communauté, étant entièrement décentralisé et tous les projets **opensource** il n'y a pas quelqu'un qui dirige, c'est la majorité des mineurs et dans le futur des stake holders qui décident de la direction du réseau.
+De plus Medusae est un réseau piloté par la communauté, étant entièrement décentralisé et la totalité des projets lié à cette monnaie sont **opensource**, c'est la majorité des mineurs et dans le futur des stake holders qui décident de la direction du réseau et par conséquent, cette monnaie ne dépend pas des actions d'une seule personne.
 
 
 
